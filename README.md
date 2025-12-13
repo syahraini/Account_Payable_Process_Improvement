@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project provides a comprehensive, data-driven analysis of the organization's critical Invoice-to-Pay process, utilizing 15,350 transactional records. The goal was to conclusively identify and quantify the systemic bottlenecks causing the catastrophic 13-day average invoice cycle time — a failure impacting vendor relationships, financial accruals, and overall organizational compliance (2.22% SLA).
+This project provides a comprehensive, data-driven analysis of the organization's critical Invoice-to-Pay process. The goal was to conclusively identify and quantify the systemic bottlenecks causing the catastrophic **13-day average invoice cycle time** — a failure impacting vendor relationships, financial accruals, and overall organizational compliance (2.22% SLA).
 
 The analysis and design deliverables include:
 - Rigorously validated As-Is process mapping and bottleneck quantification (13 days of passive waiting).
